@@ -1,2 +1,2 @@
-# learn-go
-learn-go
+# Learn Go Language here for fun
+Lean Go Language
